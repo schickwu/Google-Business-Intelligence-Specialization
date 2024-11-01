@@ -7,14 +7,14 @@ Three course series
 
 
 
-## What I've learn
+## What I've learned
 - Explore the roles of business intelligence (BI) professionals within an organization
 
 - Practice data modeling and extract, transform, load (ETL) processes that meet organizational goals 
 
 - Design data visualizations that answer business questions
 
-## Skills I've gain
+## Skills I've gained
 - Business Intelligence
 - Extraction, Transformation And Loading (ETL)
 - Bigquery
