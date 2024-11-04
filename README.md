@@ -42,8 +42,7 @@ some dashboards and charts to display key insights derived from the dataset. The
 view must include key data points that are summarized and aggregated so that the leadership
 team has a clear understanding of how customers are using Cyclistic.
 
-### Primary question: How can we draw promotion strategies for efficient customer growth and new
-station growth from customer user behavior insights?
+### Primary question: How can we draw promotion strategies for efficient customer growth and new station growth from customer user behavior insights?
 
 ### Related files 
 - Project Requirements Document: https://github.com/schickwu/Google-Business-Intelligence-Specialization/blob/main/Project%20Requirements%20Document%20-%20Cyclistic.pdf
